@@ -1,4 +1,3 @@
-{
   "cafes": [
     {
       "id": 1,
@@ -19,9 +18,9 @@
     {
       "id": 5,
       "name": "Solo"
-    },
+    }
   ],
-  "bolleria":[
+  "bolleria": [
   {
   "id": 1,
   "name": "Napolitana"
@@ -31,4 +30,3 @@
   "name": "Croissant"
   }
   ]
-  }
