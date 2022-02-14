@@ -1,0 +1,33 @@
+{
+  "cafes": [
+    {
+      "id": 1,
+      "name": "Cafe con leche"
+    },
+    {
+      "id": 2,
+      "name": "Cortado"
+    },
+    {
+      "id": 3,
+      "name": "Manchado"
+    },
+    {
+      "id": 4,
+      "name": "Capuccino"
+    },
+    {
+      "id": 5,
+      "name": "Solo"
+    },
+  ],
+  "bolleria":[
+  {
+  "id": 1,
+  "name": "Napolitana"
+  },
+  "id": 2,
+  "name": "Croissant"
+  }
+  ]
+  }
